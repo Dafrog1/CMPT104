@@ -1,3 +1,7 @@
+body{
+    background-color: violet;
+}
+
 /* Dropdown Button */
 .dropbtn {
     background-color: #04AA6D;
@@ -39,7 +43,3 @@
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {background-color: #3e8e41;}
-
-body{
-    background-color: violet;
-}
