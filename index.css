@@ -43,6 +43,8 @@ color: black;
   /* Dropdown Content (Hidden by Default) */
   .dropdown-content {
     display: none;
+    flex-direction: column;
+
     position: absolute;
     background-color: #db012c;
     min-width: 160px;
