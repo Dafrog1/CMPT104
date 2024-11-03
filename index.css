@@ -25,7 +25,9 @@ body{
   align-self: center;
   justify-self: center;
 }
-
+#t1Image{
+  justify-self: center;
+}
 /* Dropdown Button */
 .dropbtn {
     background-color: #db012c;
