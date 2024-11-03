@@ -1,5 +1,5 @@
 body{
-  background-color: blue;
+  background-color: blueviolet;
   font-family: 'Times New Roman', Times, serif;
   text-align: start;
   display: flexbox;
@@ -29,7 +29,7 @@ body{
 .t1Image {
   justify-self: center;
   align-self: center;
-  height: 32px;
+  height: 320px;
   width: 320px;
 }
 /* Dropdown Button */
