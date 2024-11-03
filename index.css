@@ -25,7 +25,7 @@ background-color: #ddd;
 color: black;
 }
 /* Dropdown Button */
-.dropbtn {
+#dropbtn {
     background-color: #db012c;
     color: white;
     padding: 16px;
@@ -43,8 +43,7 @@ color: black;
   /* Dropdown Content (Hidden by Default) */
   .dropdown-content {
     display: none;
-    flex-direction: column;
-
+    
     position: absolute;
     background-color: #db012c;
     min-width: 160px;
