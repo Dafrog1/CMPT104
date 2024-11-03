@@ -26,7 +26,7 @@ body{
   justify-self: center;
   
 }
-#t1Image {
+.t1Image {
   justify-self: center;
   align-self: center;
   height: 32px;
