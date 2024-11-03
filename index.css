@@ -1,5 +1,5 @@
 body{
-  background-color: blue;
+  background-color: blueviolet;
   font-family: 'Times New Roman', Times, serif;
   text-align: start;
   display: flexbox;
@@ -19,20 +19,7 @@ body{
   justify-content: start;
   flex-direction: row-reverse;
 }
-/* Style the navbar links */
-#navbar a {
-float: left;
-display: block;
-color: white;
-text-align: center;
-padding: 15px;
-text-decoration: none;
-}
 
-#navbar a:hover {
-background-color: #ddd;
-color: black;
-}
 /* Dropdown Button */
 .dropbtn {
     background-color: #db012c;
