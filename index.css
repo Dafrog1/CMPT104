@@ -8,6 +8,7 @@ body{
   width: 100%; /* Full width */
   transition: top 0.3s; /* Transition effect when sliding down (and up) */
   align-self: start;
+  justify-content: flex-start;
 }
 /* Style the navbar links */
 #navbar a {
@@ -36,6 +37,7 @@ color: black;
   .dropdown {
     position: relative;
     display: inline-block;
+    flex-direction: column;
   }
   
   /* Dropdown Content (Hidden by Default) */
