@@ -1,5 +1,5 @@
 body{
-  background-color: violet;
+  background-color: blue;
   font-family: 'Times New Roman', Times, serif;
   text-align: start;
   display: flexbox;
@@ -17,6 +17,7 @@ body{
   width: 100%; /* Full width */
   transition: top 0.3s; /* Transition effect when sliding down (and up) */
   align-self: start;
+  color: white;
   }
 #navbar p {
   color: white;
