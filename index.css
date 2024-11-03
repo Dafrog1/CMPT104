@@ -1,5 +1,5 @@
 body{
-  background-color: blueviolet;
+  background-color: violet;
   font-family: 'Times New Roman', Times, serif;
   text-align: start;
   display: flexbox;
@@ -16,8 +16,11 @@ body{
   top: 0px; /* Hide the navbar 50 px outside of the top view */
   width: 100%; /* Full width */
   transition: top 0.3s; /* Transition effect when sliding down (and up) */
-  justify-content: start;
-  flex-direction: row-reverse;
+  align-self: start;
+  }
+#navbar p {
+  color: white;
+  align-self: center;
 }
 
 /* Dropdown Button */
