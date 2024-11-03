@@ -29,8 +29,8 @@ body{
 .t1Image {
   justify-self: center;
   align-self: center;
-  height: 320px;
-  width: 320px;
+  height: 32px;
+  width: 32px;
 }
 /* Dropdown Button */
 .dropbtn {
