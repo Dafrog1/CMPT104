@@ -26,11 +26,15 @@ body{
   justify-self: center;
   
 }
-.t1Image {
-  justify-self: center;
-  align-self: center;
-  height: 10%;
-  width: 10%;
+#navbar img {
+  
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
 }
 /* Dropdown Button */
 .dropbtn {
