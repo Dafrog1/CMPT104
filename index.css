@@ -1,5 +1,5 @@
 body{
-  background-color: blueviolet;
+  background-color: white;
   font-family: 'Times New Roman', Times, serif;
   text-align: start;
   display: flexbox;
@@ -87,7 +87,8 @@ body{
   .dropdown:hover .dropdown-content {display: block;}
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
-  .dropdown:hover .dropbtn {background-color: #3e8e41;}
-.start {
+  .dropdown:hover .dropbtn {background-color: #FFFFFF;}
+/*.start {
   margin-top: 48px;
 }
+*/
