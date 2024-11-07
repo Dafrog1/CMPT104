@@ -91,6 +91,12 @@ body{
     background-color: #FFFFFF;
   }
 
+.bodyIMG {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
 /*.start {
   margin-top: 48px;
 }
